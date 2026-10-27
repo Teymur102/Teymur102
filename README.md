@@ -45,4 +45,4 @@ I work where AI meets the business case: deciding what is worth automating, what
 
 ## Languages
 
-English · Russian · Ukrainian · Azerbaijani (native) · Arabic (beginner)
+English · Russian · Ukrainian · Azerbaijani (native) · Turkish
