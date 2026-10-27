@@ -1,7 +1,7 @@
 <h1 align="center">Teymur Eyvazov</h1>
 
 <p align="center">
-Finance &amp; Business Analytics at <b>UMass Boston</b> (May 2028) · Co-founder of <a href="https://siba.az">SIBA</a> · CEO of <a href="https://adscreen.be">Adscreen Belgium</a>
+Finance &amp; Business Analytics at <b>UMass Boston</b> (May 2028) · Co-founder of <a href="https://siba.az">SIBA</a>
 </p>
 
 <p align="center">
@@ -11,14 +11,14 @@ Finance &amp; Business Analytics at <b>UMass Boston</b> (May 2028) · Co-founder
 <img src="https://img.shields.io/badge/Kaggle-Bronze%20medal-cd7f32?logo=kaggle&logoColor=white" alt="Kaggle bronze medal">
 </p>
 
-I work where AI meets the business case: deciding what is worth automating, what it costs, and how it reaches real customers. I study finance and analytics in Boston and build AI companies in Baku and Brussels.
+I work where AI meets the business case: deciding what is worth automating, what it costs, and how it reaches real customers. I study finance and analytics in Boston and help build AI companies in Baku.
 
 **Looking for:** a summer 2027 internship in Boston (June – August) in AI consulting, business analytics or finance.
 
 ## Now
 
 * **[SIBA](https://siba.az)**, co-founder &amp; CFO (since May 2025). AI for Azerbaijani-language businesses and public bodies: an open-weights Azerbaijani language model (539M parameters, 5.94B training tokens), assistants on 11 channels, and document-processing workflows.
-* **[Adscreen Belgium](https://adscreen.be)**, CEO, and founding team of **[Adscreen](https://adscreen.az)**. An interactive in-taxi advertising network from Baku, expanding to Brussels, Antwerp and Liège.
+* **[Adscreen](https://adscreen.az)**, founding team. An interactive in-taxi digital advertising network in Baku.
 * **[Media102](https://media102.studio)**, founder (since February 2025). A Boston photo and video studio: graduation, portrait and event shoots, drone footage, hand-designed albums.
 
 ## Results
@@ -37,8 +37,8 @@ I work where AI meets the business case: deciding what is worth automating, what
 ## Toolkit
 
 **Business:** financial analysis · Excel modeling · business analytics · statistics · process diagnosis · stakeholder presentations
-**AI:** use-case scoping · workflow automation · voice and WhatsApp agents · prompt engineering
+**AI:** use-case scoping · workflow automation · prompt engineering
 
 ## Languages
 
-English · Russian · Azerbaijani (native) · Arabic (beginner)
+English · Russian · Ukrainian · Azerbaijani (native) · Arabic (beginner)
