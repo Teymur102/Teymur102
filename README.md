@@ -19,7 +19,6 @@ I work where AI meets the business case: deciding what is worth automating, what
 
 * **[SIBA](https://siba.az)**, co-founder &amp; CFO (since May 2025). AI for Azerbaijani-language businesses and public bodies: an open-weights Azerbaijani language model (539M parameters, 5.94B training tokens), assistants on 11 channels, and document-processing workflows.
 * **[Adscreen Belgium](https://adscreen.be)**, CEO, and founding team of **[Adscreen](https://adscreen.az)**. An interactive in-taxi advertising network from Baku, expanding to Brussels, Antwerp and Liège.
-* **Zinst.AI**, co-founder &amp; CEO (since June 2025). Retail AI kiosks, WhatsApp automation bots and Azerbaijani-language voice agents for local businesses.
 * **[Media102](https://media102.studio)**, founder (since February 2025). A Boston photo and video studio: graduation, portrait and event shoots, drone footage, hand-designed albums.
 
 ## Results
