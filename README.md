@@ -21,6 +21,10 @@ I work where AI meets the business case: deciding what is worth automating, what
 * **[Adscreen](https://adscreen.az)**, founding team. An interactive in-taxi digital advertising network in Baku.
 * **[Media102](https://media102.studio)**, founder (since February 2025). A Boston photo and video studio: graduation, portrait and event shoots, drone footage, hand-designed albums.
 
+## Research
+
+* **[A Multilingual Groundedness Detector That Runs on a Raspberry Pi](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7497398)**. A. Mustafazada, **T. Eyvazov**. SIBA technical report, September 2026 (SSRN 7497398). Catches 95% of planted errors (352/372) in AI business answers across 31 languages, at 34 ms per answer on a Raspberry Pi. I contributed the operational setting, the business requirements and review.
+
 ## Results
 
 | | |
