@@ -18,7 +18,7 @@ I work where AI meets the business case: deciding what is worth automating, what
 ## Now
 
 * **[SIBA](https://siba.az)**, co-founder &amp; CFO (since May 2025). AI for Azerbaijani-language businesses and public bodies: an open-weights Azerbaijani language model (539M parameters, 5.94B training tokens), assistants on 11 channels, and document-processing workflows.
-* **[Adscreen](https://adscreen.az)**, founding team. An interactive in-taxi digital advertising network in Baku.
+* **[Adscreen](https://adscreen.az)**, founder & co-CEO. An in-taxi digital advertising platform in Baku.
 * **[Media102](https://media102.studio)**, founder (since February 2025). A Boston photo and video studio: graduation, portrait and event shoots, drone footage, hand-designed albums.
 
 ## Research
@@ -32,6 +32,7 @@ I work where AI meets the business case: deciding what is worth automating, what
 | 🥉 **Kaggle, RSNA Knee Abnormality Detection** | Bronze medal, 448th of 6,300 teams (October 2026) |
 | 🎪 **ARENA FEST** | Directed a 20-person team for an event with 100+ daily attendees (2024) |
 | 🏎️ **Red Bull F1 · Cars &amp; Coffee** | Team leader for 30+ volunteers, working with brand managers (2024) |
+| 📈 **Certifications** | Bloomberg Market Concepts · Bloomberg Finance Fundamentals · Bloomberg ESG (May 2026) · McGraw Hill Excel White Belt (Oct 2025) |
 
 ## Building in public
 
@@ -40,9 +41,10 @@ I work where AI meets the business case: deciding what is worth automating, what
 
 ## Toolkit
 
-**Business:** financial analysis · Excel modeling · business analytics · statistics · process diagnosis · stakeholder presentations
+**Finance & data:** financial analysis · DCF valuation · Excel modeling · Python · SQL · business analytics · statistics
+**Business:** process diagnosis · stakeholder presentations
 **AI:** use-case scoping · workflow automation · prompt engineering
 
 ## Languages
 
-English · Russian · Ukrainian · Azerbaijani (native) · Turkish
+English · Russian · Ukrainian · Azerbaijani (native) · Turkish (professional)
